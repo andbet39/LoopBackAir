@@ -1,0 +1,30 @@
+.spu-button {
+		margin-left:15px;
+		margin-left: 15px;
+		display: inline-table;
+		margin-top: 12px;
+		vertical-align: middle;
+}
+#spu-msg-cont {
+	border-bottom:1px solid#ccc;
+	border-top:1px solid#ccc;
+	background-image:linear-gradient(bottom,#D8E7FC 0%,#EBF2FC 65%);
+	background-image:-o-linear-gradient(bottom,#D8E7FC 0%,#EBF2FC 65%);
+	background-image:-moz-linear-gradient(bottom,#D8E7FC 0%,#EBF2FC 65%);
+	background-image:-webkit-linear-gradient(bottom,#D8E7FC 0%,#EBF2FC 65%);
+	background-image:-ms-linear-gradient(bottom,#D8E7FC 0%,#EBF2FC 65%);
+	background-image:-webkit-gradient(linear,left bottom,left top,color-stop(0,#D8E7FC),color-stop(0.85,#EBF2FC));
+	padding:16px;
+}
+#spu-msg {
+	margin:0 0 22px;
+}
+.step-clear {
+	clear:both!important;
+}
+#spu-title {
+	font-family:'Lucida Sans Unicode,Lucida Grande,sans-serif!important;
+	font-size:12px;
+	padding:12px 0 9px 10px;
+	font-size:16px;
+}
